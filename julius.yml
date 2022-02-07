@@ -1,5 +1,5 @@
 server:
   port: 8081
 
-yoda:
+julius:
   quotes: The discount is bigger if I don’t buy anything.
