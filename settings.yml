@@ -1,4 +1,13 @@
+spring:
+  cloud:
+    bus:
+      enabled: true
+      refresh:
+        enabled: true
+
 management:
+  security:
+    enabled: false
   endpoints:
     web:
       exposure:
