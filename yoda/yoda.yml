@@ -3,3 +3,4 @@ server:
 
 yoda:
   quotes: Pass on what you have learned.
+  allowedChannelWebOnlineJoin: [ web , mobile ]    
