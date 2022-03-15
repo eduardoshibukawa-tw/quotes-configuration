@@ -3,3 +3,4 @@ server:
 
 julius:
   quotes: The discount is bigger if I don’t buy anything.
+  allowedChannelWebOnlineJoin: [ web , mobile ]    
