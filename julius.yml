@@ -2,5 +2,6 @@ server:
   port: 8081
 
 julius:
-  quotes: The discount is bigger if I don’t buy anything.
-  allowedChannelWebOnlineJoin: [ web , mobile ]    
+  quotes: 
+    - The discount is bigger if I don’t buy anything.
+    - You lost $10? That’s $10 worth of dollars.
