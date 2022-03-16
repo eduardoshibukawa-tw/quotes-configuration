@@ -2,5 +2,7 @@ server:
   port: 8080
 
 yoda:
-  quotes: Pass on what you have learned.
-  allowedChannelWebOnlineJoin: [ web ]    
+  quotes: 
+    - Pass on what you have learned.
+    - Do or do not. There is no try.
+    
